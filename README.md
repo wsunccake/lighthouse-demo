@@ -44,4 +44,16 @@ linux:~/lighthouse-demo $ node <file>.js
 ## sample
 
 - [sample1](./sample/sample1.js) use chrome-launcher
-- [sample1](./sample/sample1.js) use puppeteer, setting screen resolution: 1920x1080
+- [sample2](./sample/sample2.js) use puppeteer, setting screen resolution: 1920x1080
+- [navigation](./user-flow/navigation.js) user flow - navigation
+- [snapshot](./user-flow/snapshot.js) user flow - snapshot
+- [timespan](./user-flow/timespan.js) user flow - timespan
+- [user-flow](./user-flow/user-flow.js) user flow - user-flow
+
+---
+
+## ref
+
+- [npm - lighthouse](https://www.npmjs.com/package/lighthouse)
+- [npm - chrome-launcher](https://www.npmjs.com/package/chrome-launcher)
+- [npm - Puppeteer](https://www.npmjs.com/package/puppeteer)
